@@ -1,0 +1,51 @@
+Zimmer,Quadratmeter,Preis,Adresse,PLZ,Ort,Preis_pro_Quadratmeter,Adresse_PLZ,Canton,Country
+3.5,38,3560,"Haldenstrasse 169, 8003 Zuerich",8055,Zuerich,93.68421053,"Haldenstrasse 169, 8003 Zuerich, 8055",Zurich,Switzerland
+2.5,32,3190,"Haldenstrasse 169, 8003 Zuerich",8055,Zuerich,99.6875,"Haldenstrasse 169, 8003 Zuerich, 8055",Zurich,Switzerland
+2.5,58,4550,"Allmannstrasse 55, 8052 Zuerich",8052,Zuerich,78.44827586,"Allmannstrasse 55, 8052 Zuerich, 8052",Zurich,Switzerland
+3.5,410,9720,TiÃ¨chestrasse 14,8037,Zuerich,23.70731707,"TiÃ¨chestrasse 14, 8037",Zurich,Switzerland
+2.5,60,2600,Aspacher 9 / Sattleracher 38,8413,Neftenbach,43.33333333,"Aspacher 9 / Sattleracher 38, 8413",Zurich,Switzerland
+3.5,150,3470,Loowiesenstrasse 33,8106,Adlikon b. Regensdorf,23.13333333,"Loowiesenstrasse 33, 8106",Zurich,Switzerland
+2,48,2640,Lochaeckerstrass 35/37/39/41/43,8302,Kloten,55,"Lochaeckerstrass 35/37/39/41/43, 8302",Zurich,Switzerland
+2,47,2160,Hegifeldstrasse 72,8404,Reutlingen (Winterthur),45.95744681,"Hegifeldstrasse 72, 8404",Zurich,Switzerland
+2,17,1290,"Leepuentstrasse 18, 18",8600,Duebendorf,75.88235294,"Leepuentstrasse 18, 18, 8600",Zurich,Switzerland
+,160,3820,Schaerenmoostrasse 80,8052,Zuerich,23.875,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+,140,4770,Schaerenmoostrasse 80,8052,Zuerich,34.07142857,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+,43,2780,Schaerenmoostrasse 80,8052,Zuerich,64.65116279,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+,150,3520,Schaerenmoostrasse 80,8052,Zuerich,23.46666667,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+,54,3260,Schaerenmoostrasse 80,8052,Zuerich,60.37037037,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+,45,2750,Schaerenmoostrasse 80,8052,Zuerich,61.11111111,"Schaerenmoostrasse 80, 8052",Zurich,Switzerland
+2.5,61,3080,Rebrainstrasse 23,8106,Adlikon b. Regensdorf,50.49180328,"Rebrainstrasse 23, 8106",Zurich,Switzerland
+2,60,1970,Bachtobelstr. 15,8106,Adlikon b.Regensdorf,32.83333333,"Bachtobelstr. 15, 8106",Zurich,Switzerland
+2.5,150,4190,Dammstrasse / Fabrikgasse,8810,Horgen,27.93333333,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+3.5,140,3930,Dammstrasse / Fabrikgasse,8810,Horgen,28.07142857,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+3.5,38,3020,Seestrasse 57 - Villa Silvia,8708,Maennedorf,79.47368421,"Seestrasse 57 - Villa Silvia, 8708",Zurich,Switzerland
+5.5,230,3690,"Chaelenweg 1, Wohnhaus",8607,Aathal-Seegraeben,16.04347826,"Chaelenweg 1, Wohnhaus, 8607",Zurich,Switzerland
+2,10,2080,Universitaetsstrasse 110,8006,Zuerich,208,"Universitaetsstrasse 110, 8006",Zurich,Switzerland
+2,10,1960,Universitaetsstrasse 110,8006,Zuerich,196,"Universitaetsstrasse 110, 8006",Zurich,Switzerland
+2,120,6160,Limmatquai 86 / Koengengasse 2,8001,Zuerich,51.33333333,"Limmatquai 86 / Koengengasse 2, 8001",Zurich,Switzerland
+3.5,150,4190,Dammstrasse / Fabrikgasse,8810,Horgen,27.93333333,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+2.5,140,4510,Dammstrasse / Fabrikgasse,8810,Horgen,32.21428571,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+3.5,36,2830,Dammstrasse / Fabrikgasse,8810,Horgen,78.61111111,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+2.5,60,3350,Wehntalerstr. 327,8106,Adlikon b.Regensdorf,55.83333333,"Wehntalerstr. 327, 8106",Zurich,Switzerland
+3.5,49,3640,Seestrasse 57 - Villa Silvia,8708,Maennedorf,74.28571429,"Seestrasse 57 - Villa Silvia, 8708",Zurich,Switzerland
+2.5,43,3190,Seestrasse 57 - Villa Silvia,8708,Maennedorf,74.18604651,"Seestrasse 57 - Villa Silvia, 8708",Zurich,Switzerland
+3.5,150,3570,Lindenweg 7,8487,Zell,23.8,"Lindenweg 7, 8487",Zurich,Switzerland
+4.5,250,4670,Chofelstrasse 2,8174,Stadel b. Niederglatt,18.68,"Chofelstrasse 2, 8174",Zurich,Switzerland
+3.5,160,5500,Kraestelstrasse,8106,Adlikon b. Regensdorf,34.375,"Kraestelstrasse, 8106",Zurich,Switzerland
+3.5,120,2800,Sankt Gallerstrasse 10,8488,Turbenthal,23.33333333,"Sankt Gallerstrasse 10, 8488",Zurich,Switzerland
+3.5,45,3180,Dammstrasse / Fabrikgasse,8810,Horgen,70.66666667,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+3.5,35,2730,Dammstrasse / Fabrikgasse,8810,Horgen,78,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+3.5,47,2880,"ueberlandstrasse 437, 8051 Zuerich",8051,Zuerich,61.27659574,"ueberlandstrasse 437, 8051 Zuerich, 8051",Zurich,Switzerland
+2.5,36,2520,Dammstrasse / Fabrikgasse,8810,Horgen,70,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+2.5,37,2830,Dammstrasse / Fabrikgasse,8810,Horgen,76.48648649,"Dammstrasse / Fabrikgasse, 8810",Zurich,Switzerland
+2.5,45,2530,Lindenweg 5,8487,Zell,56.22222222,"Lindenweg 5, 8487",Zurich,Switzerland
+2.5,46,3710,Badennerstrasse 155,8004,Zuerich,80.65217391,"Badennerstrasse 155, 8004",Zurich,Switzerland
+2.5,52,3380,Boulevard Lilienthal 5 - Wohnungen,8152,Opfikon,65,"Boulevard Lilienthal 5 - Wohnungen, 8152",Zurich,Switzerland
+3.5,45,3100,Boulevard Lilienthal 5 - Wohnungen,8152,Opfikon,68.88888889,"Boulevard Lilienthal 5 - Wohnungen, 8152",Zurich,Switzerland
+2.5,59,3020,Muelibachstr. 54/Haus H,8107,Buchs ZH,51.18644068,"Muelibachstr. 54/Haus H, 8107",Zurich,Switzerland
+3.5,160,5370,Kraestelstrasse 56,8106,Adlikon b. Regensdorf,33.5625,"Kraestelstrasse 56, 8106",Zurich,Switzerland
+3.5,51,2790,"Engstringerstr. Gebaeude D 5,",8952,Schlieren,54.70588235,"Engstringerstr. Gebaeude D 5,, 8952",Zurich,Switzerland
+2.5,57,4400,"Allmannstrasse 55, 8052 Zuerich",8052,Zuerich,77.19298246,"Allmannstrasse 55, 8052 Zuerich, 8052",Zurich,Switzerland
+3.5,120,5340,"Allmannstrasse 55, 8052 Zuerich",8052,Zuerich,44.5,"Allmannstrasse 55, 8052 Zuerich, 8052",Zurich,Switzerland
+2.5,57,3040,"Engstringerstr. Gebaeude C 5,",8952,Schlieren,53.33333333,"Engstringerstr. Gebaeude C 5,, 8952",Zurich,Switzerland
+3.5,210,4510,Staepfetlistrasse 7,8606,Werrikon,21.47619048,"Staepfetlistrasse 7, 8606",Zurich,Switzerland
